@@ -7,5 +7,6 @@ To analyze pizza sales using Power BI dashboards and advanced DAX, identifying t
 <a href="https://github.com/nagadhanush1158-rgb/data-analysis-dashboard/blob/main/pizza_sales.csv">Dataset</a>
 
 ## Dashboards
-<a href="https://github.com/nagadhanush1158-rgb/data-analysis-dashboard/blob/main/pizza%20dashboard%20sc-1.jpg">Dashboard-1</a>
-<a href="https://github.com/nagadhanush1158-rgb/data-analysis-dashboard/blob/main/pizza-dashborad%20sc-2.jpg">Dashboard-2</a>
+![pizza dashboard sc-1](https://github.com/user-attachments/assets/ef4d898f-0613-4e03-a2c1-2c981680cdbd)
+![pizza-dashborad sc-2](https://github.com/user-attachments/assets/53a4b92b-d05a-4053-9d81-45503c452de3)
+
